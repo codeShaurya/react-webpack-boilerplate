@@ -1,0 +1,17 @@
+{
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "always",
+  "requirePragma": true,
+  "printWidth": 100,
+  "max-len": ["warn", 100],
+  "useTabs": true,
+  "rangeStart": 0,
+  "parser": "babylon",
+  "filepath": "./src",
+  "insertPragma": false
+}
