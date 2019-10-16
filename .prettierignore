@@ -1,0 +1,11 @@
+
+.idea
+.git
+/data
+/dist
+/build
+/node_modules
+/public
+/yarn-error.log
+/yarn.lock
+/secrets
