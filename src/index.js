@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import register from '../service-worker-config';
 
 import App from "./components/App";
 
@@ -17,3 +18,5 @@ if (module.hot) {
     render(App);
   });
 }
+
+register();
